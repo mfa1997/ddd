@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>sexxxxxx.Support</name>
+        <name>xxx.Support</name>
     </assembly>
     <members>
         <member name="T:OpenQA.Selenium.Support.Events.EventFiringWebDriver">
